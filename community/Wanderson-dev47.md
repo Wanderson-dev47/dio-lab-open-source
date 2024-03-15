@@ -1,5 +1,5 @@
 # Olá eu sou Wanderson Brito 👋
-Sou um estudante apaixonado por programação nativo em android, meu perfil -> Desenvolvedor Mobile - Android | Java | Kotlin | XML
+Sou um estudante apaixonado por programação nativo em android, meu perfil -> Desenvolvedor Mobile - Android | Java | Kotlin | XML |
 
 * Cursando Analise e Desenvolvimento de Sistemas - UNINTER - Centro Universitário Internacional (1 / 3) 🌐 
 
